@@ -1,0 +1,9 @@
+F:\Development\JCode\JCLite.Domain.Model\bin\Debug\netcoreapp2.1\JCLite.Domain.Model.deps.json
+F:\Development\JCode\JCLite.Domain.Model\bin\Debug\netcoreapp2.1\JCLite.Domain.Model.dll
+F:\Development\JCode\JCLite.Domain.Model\bin\Debug\netcoreapp2.1\JCLite.Domain.Model.pdb
+F:\Development\JCode\JCLite.Domain.Model\obj\Debug\netcoreapp2.1\JCLite.Domain.Model.csprojAssemblyReference.cache
+F:\Development\JCode\JCLite.Domain.Model\obj\Debug\netcoreapp2.1\JCLite.Domain.Model.csproj.CoreCompileInputs.cache
+F:\Development\JCode\JCLite.Domain.Model\obj\Debug\netcoreapp2.1\JCLite.Domain.Model.AssemblyInfoInputs.cache
+F:\Development\JCode\JCLite.Domain.Model\obj\Debug\netcoreapp2.1\JCLite.Domain.Model.AssemblyInfo.cs
+F:\Development\JCode\JCLite.Domain.Model\obj\Debug\netcoreapp2.1\JCLite.Domain.Model.dll
+F:\Development\JCode\JCLite.Domain.Model\obj\Debug\netcoreapp2.1\JCLite.Domain.Model.pdb

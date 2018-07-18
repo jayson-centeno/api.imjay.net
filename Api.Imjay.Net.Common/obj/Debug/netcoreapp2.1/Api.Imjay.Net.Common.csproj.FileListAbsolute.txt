@@ -1,0 +1,9 @@
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Common\bin\Debug\netcoreapp2.1\Api.Imjay.Net.Common.deps.json
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Common\bin\Debug\netcoreapp2.1\Api.Imjay.Net.Common.dll
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Common\bin\Debug\netcoreapp2.1\Api.Imjay.Net.Common.pdb
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Common\obj\Debug\netcoreapp2.1\Api.Imjay.Net.Common.csproj.CoreCompileInputs.cache
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Common\obj\Debug\netcoreapp2.1\Api.Imjay.Net.Common.AssemblyInfoInputs.cache
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Common\obj\Debug\netcoreapp2.1\Api.Imjay.Net.Common.AssemblyInfo.cs
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Common\obj\Debug\netcoreapp2.1\Api.Imjay.Net.Common.dll
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Common\obj\Debug\netcoreapp2.1\Api.Imjay.Net.Common.pdb
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Common\obj\Debug\netcoreapp2.1\Api.Imjay.Net.Common.csprojAssemblyReference.cache

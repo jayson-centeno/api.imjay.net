@@ -1,0 +1,15 @@
+F:\Development\JCode\JCLite.Database\bin\Debug\netcoreapp2.1\JCLite.Database.dll.config
+F:\Development\JCode\JCLite.Database\bin\Debug\netcoreapp2.1\JCLite.Database.deps.json
+F:\Development\JCode\JCLite.Database\bin\Debug\netcoreapp2.1\JCLite.Database.runtimeconfig.json
+F:\Development\JCode\JCLite.Database\bin\Debug\netcoreapp2.1\JCLite.Database.runtimeconfig.dev.json
+F:\Development\JCode\JCLite.Database\bin\Debug\netcoreapp2.1\JCLite.Database.dll
+F:\Development\JCode\JCLite.Database\bin\Debug\netcoreapp2.1\JCLite.Database.pdb
+F:\Development\JCode\JCLite.Database\bin\Debug\netcoreapp2.1\JCLite.Domain.Model.dll
+F:\Development\JCode\JCLite.Database\bin\Debug\netcoreapp2.1\JCLite.Domain.Model.pdb
+F:\Development\JCode\JCLite.Database\obj\Debug\netcoreapp2.1\JCLite.Database.csprojAssemblyReference.cache
+F:\Development\JCode\JCLite.Database\obj\Debug\netcoreapp2.1\JCLite.Database.csproj.CoreCompileInputs.cache
+F:\Development\JCode\JCLite.Database\obj\Debug\netcoreapp2.1\JCLite.Database.AssemblyInfoInputs.cache
+F:\Development\JCode\JCLite.Database\obj\Debug\netcoreapp2.1\JCLite.Database.AssemblyInfo.cs
+F:\Development\JCode\JCLite.Database\obj\Debug\netcoreapp2.1\JCLite.Database.csproj.CopyComplete
+F:\Development\JCode\JCLite.Database\obj\Debug\netcoreapp2.1\JCLite.Database.dll
+F:\Development\JCode\JCLite.Database\obj\Debug\netcoreapp2.1\JCLite.Database.pdb

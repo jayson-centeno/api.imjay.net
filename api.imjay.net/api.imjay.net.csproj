@@ -10,6 +10,12 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Api.Imjay.Net.Database\Api.Imjay.Net.Database.csproj" />
+    <ProjectReference Include="..\Api.Imjay.Net.Domain.Model\Api.Imjay.Net.Domain.Model.csproj" />
   </ItemGroup>
 
 </Project>

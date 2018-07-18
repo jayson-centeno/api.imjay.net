@@ -1,0 +1,15 @@
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Database\bin\Debug\netcoreapp2.1\Api.Imjay.Net.Database.dll.config
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Database\bin\Debug\netcoreapp2.1\Api.Imjay.Net.Database.deps.json
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Database\bin\Debug\netcoreapp2.1\Api.Imjay.Net.Database.runtimeconfig.json
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Database\bin\Debug\netcoreapp2.1\Api.Imjay.Net.Database.runtimeconfig.dev.json
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Database\bin\Debug\netcoreapp2.1\Api.Imjay.Net.Database.dll
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Database\bin\Debug\netcoreapp2.1\Api.Imjay.Net.Database.pdb
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Database\bin\Debug\netcoreapp2.1\Api.Imjay.Net.Domain.Model.dll
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Database\bin\Debug\netcoreapp2.1\Api.Imjay.Net.Domain.Model.pdb
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Database\obj\Debug\netcoreapp2.1\Api.Imjay.Net.Database.csprojAssemblyReference.cache
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Database\obj\Debug\netcoreapp2.1\Api.Imjay.Net.Database.csproj.CoreCompileInputs.cache
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Database\obj\Debug\netcoreapp2.1\Api.Imjay.Net.Database.AssemblyInfoInputs.cache
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Database\obj\Debug\netcoreapp2.1\Api.Imjay.Net.Database.AssemblyInfo.cs
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Database\obj\Debug\netcoreapp2.1\Api.Imjay.Net.Database.csproj.CopyComplete
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Database\obj\Debug\netcoreapp2.1\Api.Imjay.Net.Database.dll
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Database\obj\Debug\netcoreapp2.1\Api.Imjay.Net.Database.pdb
