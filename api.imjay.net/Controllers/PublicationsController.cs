@@ -2,6 +2,7 @@ using Api.Imjay.Net.Model;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
+using System;
 using System.Collections.Generic;
 
 namespace Api.Imjay.Net.Controllers
@@ -18,11 +19,11 @@ namespace Api.Imjay.Net.Controllers
         {
             return new List<PublicationModel>() {
 
-                new PublicationModel { Id = 1, Title = "C# Useful Extension Methods", Description = "test" },
-                new PublicationModel { Id = 2, Title = "Simple Coding Technique", Description = "test" },
-                new PublicationModel { Id = 3, Title = "Knockout JS Component Builder", Description = "test" },
-                new PublicationModel { Id = 4, Title = "Reactjs Basics", Description = "test" },
-                new PublicationModel { Id = 5, Title = "ReactJS Forms and Validations", Description = "test" }
+                new PublicationModel { Id = 1, Title = "C# Useful Extension Methods", Description = DateTime.Now.ToString("dddd, dd MMMM yyy") },
+                new PublicationModel { Id = 2, Title = "Simple Coding Technique", Description = DateTime.Now.ToString("dddd, dd MMMM yyy") },
+                new PublicationModel { Id = 3, Title = "Knockout JS Component Builder", Description = DateTime.Now.ToString("dddd, dd MMMM yyy") },
+                new PublicationModel { Id = 4, Title = "Reactjs Basics", Description = DateTime.Now.ToString("dddd, dd MMMM yyy") },
+                new PublicationModel { Id = 5, Title = "ReactJS Forms and Validations", Description = DateTime.Now.ToString("dddd, dd MMMM yyy") }
 
             };
         }

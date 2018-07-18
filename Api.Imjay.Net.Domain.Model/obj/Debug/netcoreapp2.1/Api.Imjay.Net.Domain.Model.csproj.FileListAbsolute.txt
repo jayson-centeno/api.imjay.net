@@ -6,3 +6,4 @@ F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Domain.Model\obj\De
 F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Domain.Model\obj\Debug\netcoreapp2.1\Api.Imjay.Net.Domain.Model.AssemblyInfo.cs
 F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Domain.Model\obj\Debug\netcoreapp2.1\Api.Imjay.Net.Domain.Model.dll
 F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Domain.Model\obj\Debug\netcoreapp2.1\Api.Imjay.Net.Domain.Model.pdb
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Domain.Model\obj\Debug\netcoreapp2.1\Api.Imjay.Net.Domain.Model.csprojAssemblyReference.cache

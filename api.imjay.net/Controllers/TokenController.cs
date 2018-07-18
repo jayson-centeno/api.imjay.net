@@ -1,5 +1,4 @@
 ﻿using Api.Imjay.Net.Domain.Model.Authentication;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
@@ -31,13 +30,19 @@ namespace Api.Imjay.Net
         [HttpPost]
         public async Task<IActionResult> Post([FromBody] UserAuthenticate auth)
         {
-            var token = await GetJwtSecurityToken(auth);
-
-            return Ok(new
+            try
             {
-                token = new JwtSecurityTokenHandler().WriteToken(token),
-                expiration = token.ValidTo
-            });
+                var token = await GetJwtSecurityToken(auth);
+                return Ok(new
+                {
+                    token = new JwtSecurityTokenHandler().WriteToken(token),
+                    expiration = token.ValidTo
+                });
+            }
+            catch (Exception e)
+            {
+                return Ok(e);
+            }
         }
 
         private async Task<JwtSecurityToken> GetJwtSecurityToken(UserAuthenticate user)
