@@ -55,7 +55,7 @@ namespace Api.Imjay.Net
                 issuer: Configuration["Tokens:Issuer"],
                 audience: Configuration["Tokens:Issuer"],
                 claims: GetTokenClaims(user, Configuration),
-                expires: DateTime.UtcNow.AddMinutes(10),
+                expires: DateTime.UtcNow.AddDays(1),
                 signingCredentials: new SigningCredentials(new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["Tokens:Key"])), SecurityAlgorithms.HmacSha256)
             );
         }
