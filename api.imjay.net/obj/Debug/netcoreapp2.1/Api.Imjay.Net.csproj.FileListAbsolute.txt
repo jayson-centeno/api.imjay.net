@@ -18,3 +18,9 @@ F:\Development\ReactApp\imjaynet\api.imjay.net\api.imjay.net\obj\Debug\netcoreap
 F:\Development\ReactApp\imjaynet\api.imjay.net\api.imjay.net\bin\Debug\netcoreapp2.1\Api.Imjay.Net.Database.dll
 F:\Development\ReactApp\imjaynet\api.imjay.net\api.imjay.net\bin\Debug\netcoreapp2.1\Api.Imjay.Net.Database.pdb
 F:\Development\ReactApp\imjaynet\api.imjay.net\api.imjay.net\bin\Debug\netcoreapp2.1\Api.Imjay.Net.Database.dll.config
+F:\Development\ReactApp\imjaynet\api.imjay.net\api.imjay.net\bin\Debug\netcoreapp2.1\Api.Imjay.Net.Domain.dll
+F:\Development\ReactApp\imjaynet\api.imjay.net\api.imjay.net\bin\Debug\netcoreapp2.1\Api.Imjay.Net.Domain.pdb
+F:\Development\ReactApp\imjaynet\api.imjay.net\api.imjay.net\bin\Debug\netcoreapp2.1\Api.Imjay.Net.Domain.Interface.dll
+F:\Development\ReactApp\imjaynet\api.imjay.net\api.imjay.net\bin\Debug\netcoreapp2.1\Api.Imjay.Net.Domain.Interface.pdb
+F:\Development\ReactApp\imjaynet\api.imjay.net\api.imjay.net\bin\Debug\netcoreapp2.1\Api.Imjay.Net.Commands.dll
+F:\Development\ReactApp\imjaynet\api.imjay.net\api.imjay.net\bin\Debug\netcoreapp2.1\Api.Imjay.Net.Commands.pdb

@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using Api.Imjay.Net.Domain.Interface;
 using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 
@@ -11,12 +10,34 @@ namespace Api.Imjay.Net.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
+        private readonly IContactUsService _contactUsService;
+
+        public ValuesController(IContactUsService contactUsService)
+        {
+            _contactUsService = contactUsService;
+        }
+
         // GET api/values
         [HttpGet]
         [EnableCors("*")]
         public ActionResult<IEnumerable<string>> Get()
         {
+            _contactUsService.CreateContactUs(new Commands.CreateContactUsCommand()
+            {
+                Email = "jj@j.com",
+                Message = "test",
+                Name = "test",
+                Verified = true,
+                IPAddress = GetUserIP(),
+                DatePosted = DateTime.Now
+            });
+
             return new string[] { "value1", "value2" };
+        }
+
+        private string GetUserIP()
+        {
+            return HttpContext.Connection.RemoteIpAddress.ToString();
         }
 
         // GET api/values/5

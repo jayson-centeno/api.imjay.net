@@ -1,0 +1,12 @@
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Migration\bin\Debug\netcoreapp2.1\Api.Imjay.Net.Migration.deps.json
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Migration\bin\Debug\netcoreapp2.1\Api.Imjay.Net.Migration.runtimeconfig.json
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Migration\bin\Debug\netcoreapp2.1\Api.Imjay.Net.Migration.runtimeconfig.dev.json
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Migration\bin\Debug\netcoreapp2.1\Api.Imjay.Net.Migration.dll
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Migration\obj\Debug\netcoreapp2.1\Api.Imjay.Net.Migration.csproj.CoreCompileInputs.cache
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Migration\obj\Debug\netcoreapp2.1\Api.Imjay.Net.Migration.AssemblyInfoInputs.cache
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Migration\obj\Debug\netcoreapp2.1\Api.Imjay.Net.Migration.AssemblyInfo.cs
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Migration\obj\Debug\netcoreapp2.1\Api.Imjay.Net.Migration.csprojAssemblyReference.cache
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Migration\bin\Debug\netcoreapp2.1\Api.Imjay.Net.Migration.pdb
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Migration\obj\Debug\netcoreapp2.1\Api.Imjay.Net.Migration.dll
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Migration\obj\Debug\netcoreapp2.1\Api.Imjay.Net.Migration.pdb
+F:\Development\ReactApp\imjaynet\api.imjay.net\Api.Imjay.Net.Migration\bin\Debug\netcoreapp2.1\appsettings.json

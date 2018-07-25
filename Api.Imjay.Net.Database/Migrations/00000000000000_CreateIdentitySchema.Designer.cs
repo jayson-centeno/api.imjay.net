@@ -185,7 +185,7 @@ namespace Api.Imjay.Net.Database.Migrations
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserClaim<string>", b =>
                 {
-                    b.HasOne("WebApplication2.Models.ApplicationUser")
+                    b.HasOne("Api.Imjay.Net.Domain.Model.Authentication.ApplicationUser")
                         .WithMany("Claims")
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade);
@@ -193,7 +193,7 @@ namespace Api.Imjay.Net.Database.Migrations
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserLogin<string>", b =>
                 {
-                    b.HasOne("WebApplication2.Models.ApplicationUser")
+                    b.HasOne(" Api.Imjay.Net.Domain.Model.Authentication.ApplicationUser")
                         .WithMany("Logins")
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade);
@@ -206,7 +206,7 @@ namespace Api.Imjay.Net.Database.Migrations
                         .HasForeignKey("RoleId")
                         .OnDelete(DeleteBehavior.Cascade);
 
-                    b.HasOne("WebApplication2.Models.ApplicationUser")
+                    b.HasOne("Api.Imjay.Net.Domain.Model.Authentication.ApplicationUser")
                         .WithMany("Roles")
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade);

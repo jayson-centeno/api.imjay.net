@@ -10,10 +10,10 @@ namespace Api.Imjay.Net.Controllers
     [Authorize]
     [Route("api/[controller]")]
     [Produces("application/json")]
+    [EnableCors("*")]
     [ApiController]
     public class PublicationsController : ControllerBase
     {
-        [EnableCors("*")]
         [HttpGet("[action]")]
         public IEnumerable<PublicationModel> GetPublications()
         {
@@ -22,16 +22,9 @@ namespace Api.Imjay.Net.Controllers
                 new PublicationModel { Id = 2, Title = "Simple Coding Technique", Description = DateTime.Now.ToString("dddd, dd MMMM yyy") },
                 new PublicationModel { Id = 3, Title = "Knockout JS Component Builder", Description = DateTime.Now.ToString("dddd, dd MMMM yyy") },
                 new PublicationModel { Id = 4, Title = "Reactjs Basics", Description = DateTime.Now.ToString("dddd, dd MMMM yyy") },
-                new PublicationModel { Id = 5, Title = "ReactJS Forms and Validations", Description = DateTime.Now.ToString("dddd, dd MMMM yyy") },
+                new PublicationModel { Id = 6, Title = "ReactJS Forms and Validations", Description = DateTime.Now.ToString("dddd, dd MMMM yyy") },
                 new PublicationModel { Id = 5, Title = "Typescript Simple Code Tricks", Description = DateTime.Now.ToString("dddd, dd MMMM yyy") }
             };
         }
-
-        [HttpPost]
-        public string PostData([FromBody] UserAuthenticate user)
-        {
-            return string.Empty;
-        }
-
     }
 }

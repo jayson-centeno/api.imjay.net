@@ -207,6 +207,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "Api.Imjay.Net.Commands/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Api.Imjay.Net.Commands.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Api.Imjay.Net.Commands.dll": {}
+        }
       }
     }
   },
@@ -673,10 +683,16 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "Api.Imjay.Net.Commands/1.0.0": {
+      "type": "project",
+      "path": "../Api.Imjay.Net.Commands/Api.Imjay.Net.Commands.csproj",
+      "msbuildProject": "../Api.Imjay.Net.Commands/Api.Imjay.Net.Commands.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "Api.Imjay.Net.Commands >= 1.0.0",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
@@ -709,7 +725,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\Development\\ReactApp\\imjaynet\\api.imjay.net\\Api.Imjay.Net.Commands\\Api.Imjay.Net.Commands.csproj": {
+              "projectPath": "F:\\Development\\ReactApp\\imjaynet\\api.imjay.net\\Api.Imjay.Net.Commands\\Api.Imjay.Net.Commands.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

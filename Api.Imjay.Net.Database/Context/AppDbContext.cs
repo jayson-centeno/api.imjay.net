@@ -1,12 +1,22 @@
 ﻿using Api.Imjay.Net.Domain.Model;
 using Microsoft.EntityFrameworkCore;
+using System.Data.Common;
 
 namespace Api.Imjay.Net.Database.Context
 {
     public class AppDbContext: DbContext 
     {
-        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
+        private DbConnection _connection = null;
+
+        public AppDbContext(DbConnection conection)
         {
+            _connection = conection;
+        }
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseSqlServer(_connection);
+            base.OnConfiguring(optionsBuilder);
         }
 
         protected override void OnModelCreating(ModelBuilder builder)
@@ -18,5 +28,6 @@ namespace Api.Imjay.Net.Database.Context
         }
 
         public DbSet<Publication> Publications { get; set; }
+        public DbSet<ContactUs> ContactUs { get; set; }
     }
 }
